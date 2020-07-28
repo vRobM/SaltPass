@@ -1,4 +1,4 @@
-# Free memoryless password manager
+# Free memoryless password generator
 ## Features
 - **Simple**: code is only 129 lines long, so it's easy to audit and improve to fit your specific needs. Supports password updates/changes using simple method.
 - **Fast**
